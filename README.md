@@ -1,12 +1,12 @@
 # HelloWorld
 
-### The most **_inefficient_** event of Equinox powered by Axios
+### The most **innovative** event of Equinox powered by Axios
 
 ## What is this event?
 
 We all have taken part in coding competitions in which you aim to write the fastest and most efficient program but in this event you have to do the exact opposite.
 
-> **Write the slowest, weirdest and most inefficient program to say "HELLO WORLD" (case insensitive)**.
+> **Find the slowest, weirdest and most innovative way to say "HELLO WORLD" (case insensitive) via a program**.
 
 ## Rules for the event
 
@@ -21,6 +21,9 @@ Just make a Pull Request in this repository.
 Multiple Submissions are allowed.
 
 ## Check Out the example program [here](example.js)
+## Register [here](https://forms.gle/cpfNd4i1pNNa5u6t6) before 19th March, 2022 at 10 AM and get a chance to win **exciting prizes**.
 
+# Event Timeline: 
+11 AM on 19th March - 11:59 PM on 20th March, 2022.
 
-# TIME TO GO CRAZY
+# ``` TIME TO GO CRAZY```
