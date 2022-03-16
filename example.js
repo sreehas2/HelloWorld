@@ -44,6 +44,7 @@ while (1) {
     console.log("reset");
   }
 }
+console.log(buffer);
 
 // MAXIMUM NUMBER OF ITERATIONS: 3670344500000000 🤯
 
