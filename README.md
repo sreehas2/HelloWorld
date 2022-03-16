@@ -21,3 +21,6 @@ Just make a Pull Request in this repository.
 Multiple Submissions are allowed.
 
 ## Check Out the example program [here](example.js)
+
+
+#TIME TO GO CRAZY
