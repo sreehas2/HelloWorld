@@ -23,4 +23,4 @@ Multiple Submissions are allowed.
 ## Check Out the example program [here](example.js)
 
 
-#TIME TO GO CRAZY
+# TIME TO GO CRAZY
