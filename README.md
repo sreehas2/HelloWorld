@@ -1,6 +1,6 @@
 # HelloWorld
 
-### The most **_inefficient_** event of Equinox powered by Axios
+### The most **innovative** event of Equinox powered by Axios
 
 ## What is this event?
 
