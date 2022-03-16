@@ -1,5 +1,5 @@
 // CAUTION: DO NOT RUN THIS CODE 
-alphabets = [
+const alphabets = [
   "a",
   "b",
   "c",
@@ -28,8 +28,8 @@ alphabets = [
   "z",
   " ",
 ];
-goal = "hello world";
-buffer = "";
+const goal = "hello world";
+let buffer = "";
 
 function randomLetter() {
   return alphabets[Math.floor(Math.random() * alphabets.length)];
