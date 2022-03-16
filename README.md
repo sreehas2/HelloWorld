@@ -4,18 +4,18 @@
 
 ## What is this event?
 
-We all have taken part in coding competitions in which you aim to write the fastest and most efficient code but in this event you have to do the exact opposite.
+We all have taken part in coding competitions in which you aim to write the fastest and most efficient program but in this event you have to do the exact opposite.
 
-> **Write the slowest and most inefficient code to say "HELLO WORLD"**.
+> **Write the slowest, weirdest and most inefficient program to say "HELLO WORLD"**.
 
 ## Rules for the event
 
-1. Write the slowest and most inefficient code.
+1. Write the slowest and most inefficient program.
 1. You can use any language/tool you want.
-1. The code should theorectically work.
-1. The code should be submitted within the event deadline.
+1. The program should theorectically work.
+1. The program should be submitted within the event deadline.
 
-## How to submit your code?
+## How to submit your program?
 
 Just make a Pull Request in this repository.
 Multiple Submissions are allowed.
