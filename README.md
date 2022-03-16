@@ -6,7 +6,7 @@
 
 We all have taken part in coding competitions in which you aim to write the fastest and most efficient program but in this event you have to do the exact opposite.
 
-> **Write the slowest, weirdest and most inefficient program to say "HELLO WORLD" (case insensitive)**.
+> **Find the slowest, weirdest and most innovative way to say "HELLO WORLD" (case insensitive) via a program**.
 
 ## Rules for the event
 
