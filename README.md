@@ -21,6 +21,9 @@ Just make a Pull Request in this repository.
 Multiple Submissions are allowed.
 
 ## Check Out the example program [here](example.js)
+## Register [here](https://forms.gle/cpfNd4i1pNNa5u6t6) before 19th March, 2022 at 10 AM and get a chance to win **exciting prizes**.
 
+# Event Timeline: 
+11 AM on 19th March - 11:59 PM on 20th March, 2022.
 
-# TIME TO GO CRAZY
+# ``` TIME TO GO CRAZY```
