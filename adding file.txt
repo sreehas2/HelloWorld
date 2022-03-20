@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define io ios_base::sync_with_stdio(false);cin.tie(NULL);
+#define t ll t;cin>>t;while(t--)
+
+using namespace std;
+int main()
+{
+    io
+    string n;
+    ll c=0;
+    ll arr[11]={72,101,108,108,111,32,119,111,114,108,100};
+   for(int i=0;i<11;i++){
+    int p =rand();
+    if(p==arr[c]){
+        n=n+char(p);
+        c++;
+    }
+    else i--;
+   }
+   cout<<n<<endl;
+}
+
